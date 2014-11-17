@@ -1,7 +1,7 @@
 Thaumcraft 4.1 Research Helper
 ==========
 
-[Link](http://ythri.github.io/tcresearch/)
+[Link](http://kane-thornwyrd.github.io/tcresearch/)
 
 This script helps you with your Thaumcraft 4.1 research. If you have a research note with two aspects that you don't 
 know how to connect, simply choose them in the dropdown list above (From: and To:). Additionally, choose the minimum 
